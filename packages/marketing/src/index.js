@@ -1,1 +1,1 @@
-console.log("Hi there! I'm the marketing package.")
+import('./bootstrap')
